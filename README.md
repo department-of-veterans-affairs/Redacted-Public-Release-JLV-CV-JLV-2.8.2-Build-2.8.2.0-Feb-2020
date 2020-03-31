@@ -1,2 +1,4 @@
 # Redacted-Public-Release-JLV-CV-JLV-2.8.2-Build-2.8.2.0-Feb-2020
 Repository containing the CIF Submission for Joint Legacy Viewer/Community Viewer - JLV 2.8.2, build 2.8.2.0 received Feb 2020
+
+The Joint Legacy Viewer/Community Viewer (JLV/CV) project consists of two separate work streams for JLV and CV which are both read-only, web-based applications that support clinical decisions while providing care to Veterans. JLV supports health data sharing between VA, DoD, and Community Partners. This project will continue to enhance the JLV application and expand the user base. CV provides health data to Community Providers as Veterans are referred for treatment. This project will continue development and deployment of the CV application.
